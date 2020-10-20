@@ -1,0 +1,16 @@
+{
+    "name": "curtos.pt/yii2-curtos",
+    "type": "library",
+    "description": "Curtos.pt API abstraction for Yii 2",
+    "keywords": ["curtos","shorter"],
+    "homepage": "https://curtos.pt",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Luís Ribeiro",
+            "email": "luis.mribeiro@sapo.pt",
+            "homepage": "https://lribeiro.js.org",
+            "role": "Developer"
+        }
+    ],
+}
